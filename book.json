@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "cloud-image",
+        "tex",
+        "flow",
+        "sequence",
+        "navigation"
+    ]
+}
