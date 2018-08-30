@@ -1,2 +1,2 @@
-* [重庆工商大学生存指南](ctbu-guide.md)
-* [经验](ctbu-guide.md#经验)
+* [重庆工商大学生存指南](ctbuguide.md)
+* [经验](ctbuguide.md#经验)
