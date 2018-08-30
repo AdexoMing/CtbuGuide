@@ -42,10 +42,6 @@
 
 ### 学校简介
 * 学校学院与专业分布
-  
-<<<<<<< HEAD
-  ![学院与专业分布](http://wx2.sinaimg.cn/mw690/006ZZ573ly1fuhaim7hsgj30yg17cgoz.jpg)
-=======
   ![学院与专业分布](http://wx2.sinaimg.cn/large/006ZZ573ly1fuhaim7hsgj30yg17cgoz.jpg)
 >>>>>>> c03aaa32ea2529e8f44705503dab1f6962239384
 ### 相关平台
