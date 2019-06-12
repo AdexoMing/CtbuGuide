@@ -1,6 +1,7 @@
-- 开始
-  - [简介](zh-cn/)
-  - [使用](zh-cn/usages.md)
+- 第一部分：新生入学指南
+  - 学校相关
+  - [学校简介](xuexiaojianjie.md)
+  - [相关平台](xiangguanpingtai.md)
   - 安装教程
     - [Atom](zh-cn/installation.md)
     - [VS Code](zh-cn/vscode-installation.md)
