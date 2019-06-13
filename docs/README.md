@@ -1,49 +1,30 @@
-# Markdown Preview Enhanced
+# 重庆工商大学生存指南计划
+* 计划为于翠湖畔项目
+* 计划为开放开源的非盈利性项目
+* 本作品版权归翠湖畔和所有参与者所有
+* 项目基于CC 3.0 BY-NC-ND 协议授权
+  你可以自由的复制、散布、展示及演出本作品，但是你必须按照我们制定的方式保留著作者身份，并且不能修改本作品内容(修改内容请直接参与编辑)，商业组织和个人的商业性转发等行为需要单独联系获得授权
+* 联系翠湖畔：cuihupan@163.com
+> 翠湖畔是一个立足于重庆工商大学，由工商大学几位爱好创业、爱好创新的学生创办的非营利性质的公益小团体。在这里，我们希望能够将更多的志同道合的人聚合在一起，相互交流，相互合作，不断提高自己，通过自己真真切切的努力去影响他人。翠湖畔的非营利性质指的是不放弃盈利，但是盈利全部用于各种项目开支和其他公益事业，***翠湖畔财务公开***
+翠湖畔的主要项目包括网站 cuihupan.org、电子杂志《CuiHuPan》、翠湖畔资源库、微信公众号“翠湖之畔”等。
+所有翠湖畔活动信息和项目作品均可在网站 cuihupan.org 微信公众号翠湖之畔查看
 
-[![](https://img.shields.io/github/tag/shd101wyy/markdown-preview-enhanced.svg)](https://github.com/shd101wyy/markdown-preview-enhanced/releases) ![](https://img.shields.io/apm/dm/markdown-preview-enhanced.svg)  [![](https://img.shields.io/github/stars/shd101wyy/markdown-preview-enhanced.svg?style=social&label=Star)](https://github.com/shd101wyy/markdown-preview-enhanced)
+-------------------
+## 计划简介
+  重庆工商大学生存指南计划旨在于编辑一份涵盖工商大学各个方面的指南，包括面向新生的入学指南，面向在校生的学校各类资源使用指南以及各类科目的学习指南。这份指南开放开源，任何人都可以进行编辑，任何人都可以在协议的约束下进行传播和使用。
+## 计划缘起
+  每年新生入学的时候，都会有很多的疑问，在新生群里面问来问去，但是很多问题，一个人问过之后过几分钟又有人来问，问的人不敢问的太多怕烦，而答的人同样的内容回答的多了真的会烦。现有的各种文章，要么内容不全，要么质量堪忧，要么就是年久失修。所以一份完整的，年轻的，高质量的工商大学指南是急需的，但是这样的一份指南要是让一个人写或者几个人写，工作量太大，而且难以面面俱到，所以得依靠所有人的参与，共同来丰富完善，功在当届，利在后面好几届啊。
+## 计划形式
+  本项目开放开源，指南的编辑任何人都可以参与，最终的指南源文件全部开放下载，并且翠湖畔会负责在网上建立展示页面以便大家随时阅读。首先我们会把整个指南分为很多小部分，然后列出一个表，任何人可以认领其中的一到几部分去写，写完之后发送给翠湖畔，翠湖畔会进行整理和最终的排版，指南会一直处于发布状态，任何人都可以阅读已经完成的部分，并随时指出错误和不足之处，再由大家进行修改。
+  翠湖畔会成立一个编辑小组，任何人都可以加入编辑小组，这个小组会直接负责指南的编辑、排版和维护，如果你想加入小组，请加入翠湖畔QQ群进行交流
+  [点击此处加入QQ群或者按照群号加入：947594294](https://jq.qq.com/?_wv=1027&k=5jvK85g)
+## 计划周期
+  计划将于2019.7.1正式启动
+  并将于2019.8.1之前完成大概内容
+## 阅读重庆工商大学生存指南
+  ctbuguide.cuihupan.org
 
-**Markdown Preview Enhanced** 是一款为 [**Atom**](https://atom.io/packages/markdown-preview-enhanced) 以及 [**Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) 编辑器编写的**超级强大的** Markdown 插件。
-这款插件意在让你拥有飘逸的 Markdown 写作体验。
-
-在 [这里](https://github.com/shd101wyy/markdown-preview-enhanced/issues) 留言如果你发现了问题或者想要请求新的特性。
-
-![intro](https://user-images.githubusercontent.com/1908863/28227953-eb6eefa4-68a1-11e7-8769-96ea83facf3b.png)
-
-## 安装
-[Atom 版安装](zh-cn/installation.md)
-[VS Code 版安装](zh-cn/vscode-installation.md)
-
-## 特性
-
-- **自动编辑器及预览滑动同步**
-- **[导入外部文件](zh-cn/file-imports.md)**
-- **[Code Chunk](zh-cn/code-chunk.md)**
-- **[Pandoc](zh-cn/pandoc.md)**
-- **[Prince](zh-cn/prince.md)**
-- **[电子书](zh-cn/ebook.md)**
-- **[幻灯片](zh-cn/presentation.md)**
-- **[可扩展性](zh-cn/extend-parser.md)**
-- **[LaTeX 数学](zh-cn/math.md)**
-- 导出 **PDF**, **PNG**, 以及 **JPEG** 凭借 [Puppeteer](zh-cn/puppeteer.md)
-- 导出漂亮的 **HTML**（移动端支持）
-- [编译到 GitHub Flavored Markdown](zh-cn/markdown.md)
-- [自定义预览 CSS](zh-cn/customize-css.md)
-- [TOC](zh-cn/toc.md) 生成
-- [流程图 / 时序图 以及各种其他种类的图形](zh-cn/diagrams.md)
-- [嵌入 LaTeX, 渲染 TikZ, Chemfig 等图形](zh-cn/code-chunk.md?id=latex)
-- Task List *(Github Flavored)*
-- 图片助手
-- [脚注](https://github.com/shd101wyy/markdown-preview-enhanced/issues/35)
-- [Front Matter](https://github.com/shd101wyy/markdown-preview-enhanced/issues/100)
-- 以及更多。。。
-
-## 支持这个项目
-Markdown Preview Enhanced 是一款由 [University of Illinois/NCSA Open Source License](LICENSE.md) 下发布的免费开源软件。这个项目的持续开发脱离不了这些可敬的[赞助者们](backers.md)。你也可以使这个项目变的更好，到 [Patreon](https://www.patreon.com/shd101wyy)，[PayPal](https://shd101wyy.github.io/markdown-preview-enhanced/#/paypal)，或者 [微信支付 Wechat Pay](https://shd101wyy.github.io/markdown-preview-enhanced/#/wechat) 上来支持我们。谢谢！
-
-## Mume - 该项目的核心
-[Mume](https://github.com/shd101wyy/mume) 驱动了 atom 以及 vscode 版本的 markdown preview enhanced。
-
-## 帮忙翻译文档
-如果你想要帮忙翻译这个文档到其他的语言, 请在 [这里](https://github.com/shd101wyy/markdown-preview-enhanced/issues) 留言。
-
-[➔ 使用](zh-cn/usages.md)
+  --------
+  ##### 你可以访问 www.cuihupan.org了解翠湖畔的更多内容
+  ##### 加入翠湖畔交流QQ群：947594294
+  ##### 直接和我们取得联系：cuihupan@163.com

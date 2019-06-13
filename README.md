@@ -1,52 +1,30 @@
+# 重庆工商大学生存指南计划
+* 计划为于翠湖畔项目
+* 计划为开放开源的非盈利性项目
+* 本作品版权归翠湖畔和所有参与者所有
+* 项目基于CC 3.0 BY-NC-ND 协议授权
+  你可以自由的复制、散布、展示及演出本作品，但是你必须按照我们制定的方式保留著作者身份，并且不能修改本作品内容(修改内容请直接参与编辑)，商业组织和个人的商业性转发等行为需要单独联系获得授权
+* 联系翠湖畔：cuihupan@163.com
+> 翠湖畔是一个立足于重庆工商大学，由工商大学几位爱好创业、爱好创新的学生创办的非营利性质的公益小团体。在这里，我们希望能够将更多的志同道合的人聚合在一起，相互交流，相互合作，不断提高自己，通过自己真真切切的努力去影响他人。翠湖畔的非营利性质指的是不放弃盈利，但是盈利全部用于各种项目开支和其他公益事业，***翠湖畔财务公开***
+翠湖畔的主要项目包括网站 cuihupan.org、电子杂志《CuiHuPan》、翠湖畔资源库、微信公众号“翠湖之畔”等。
+所有翠湖畔活动信息和项目作品均可在网站 cuihupan.org 微信公众号翠湖之畔查看
 
-*
-  - 安装教程
-    - [Atom](zh-cn/installation.md)
-    - [VS Code](zh-cn/vscode-installation.md)
+-------------------
+## 计划简介
+  重庆工商大学生存指南计划旨在于编辑一份涵盖工商大学各个方面的指南，包括面向新生的入学指南，面向在校生的学校各类资源使用指南以及各类科目的学习指南。这份指南开放开源，任何人都可以进行编辑，任何人都可以在协议的约束下进行传播和使用。
+## 计划缘起
+  每年新生入学的时候，都会有很多的疑问，在新生群里面问来问去，但是很多问题，一个人问过之后过几分钟又有人来问，问的人不敢问的太多怕烦，而答的人同样的内容回答的多了真的会烦。现有的各种文章，要么内容不全，要么质量堪忧，要么就是年久失修。所以一份完整的，年轻的，高质量的工商大学指南是急需的，但是这样的一份指南要是让一个人写或者几个人写，工作量太大，而且难以面面俱到，所以得依靠所有人的参与，共同来丰富完善，功在当届，利在后面好几届啊。
+## 计划形式
+  本项目开放开源，指南的编辑任何人都可以参与，最终的指南源文件全部开放下载，并且翠湖畔会负责在网上建立展示页面以便大家随时阅读。首先我们会把整个指南分为很多小部分，然后列出一个表，任何人可以认领其中的一到几部分去写，写完之后发送给翠湖畔，翠湖畔会进行整理和最终的排版，指南会一直处于发布状态，任何人都可以阅读已经完成的部分，并随时指出错误和不足之处，再由大家进行修改。
+  翠湖畔会成立一个编辑小组，任何人都可以加入编辑小组，这个小组会直接负责指南的编辑、排版和维护，如果你想加入小组，请加入翠湖畔QQ群进行交流
+  [点击此处加入QQ群或者按照群号加入：947594294](https://jq.qq.com/?_wv=1027&k=5jvK85g)
+## 计划周期
+  计划将于2019.7.1正式启动
+  并将于2019.8.1之前完成大概内容
+## 阅读重庆工商大学生存指南
+  ctbuguide.cuihupan.org
 
-- 编写 Markdown
-  - [Markdown 基本要素](zh-cn/markdown-basics.md)
-  - [数学](zh-cn/math.md)
-  - [图像](zh-cn/diagrams.md)
-  - [TOC](zh-cn/toc.md)
-  - [导入文件](zh-cn/file-imports.md)
-  - [Code Chunk](zh-cn/code-chunk.md)
-  - [幻灯片](zh-cn/presentation.md)
-  - [Pandoc](zh-cn/pandoc.md)
-
-- 文档导出
-  - [HTML](zh-cn/html.md)
-  - [Puppeteer](zh-cn/puppeteer.md)
-  - [PDF](zh-cn/pdf.md)
-  - [eBook](zh-cn/ebook.md)
-  - [Prince (PDF)](zh-cn/prince.md)
-  - Pandoc
-    - [PDF](zh-cn/pandoc-pdf.md)
-    - [Word](zh-cn/pandoc-word.md)
-    - [RTF](zh-cn/pandoc-rtf.md)
-    - [Beamer](zh-cn/pandoc-beamer.md)
-    - [Custom](zh-cn/pandoc-custom.md)
-    - [Bibliographies and Citations](zh-cn/pandoc-bibliographies-and-citations.md)
-  - [Markdown (GFM)](zh-cn/markdown.md)
-
-- 定制 & 扩展
-  - [自定义 CSS](zh-cn/customize-css.md)
-  - [扩展 Markdown Parser](zh-cn/extend-parser.md)
-  - [图片助手](zh-cn/image-helper.md)
-  - [开发者文档](developer.md)
-
-- Credits
-  - [Backers](backers.md)
-  - [Thanks](thanks.md)
-
-- [额外](zh-cn/extra.md)
-
-- [疑难解答](zh-cn/faq.md)
-
-- Changelog
-  - Atom
-    - [Newest](newest.md)
-    - [History](history.md)
-  - [VS Code](https://github.com/shd101wyy/vscode-markdown-preview-enhanced/releases)
-
-- [License](LICENSE.md)
+  --------
+  ##### 你可以访问 www.cuihupan.org了解翠湖畔的更多内容
+  ##### 加入翠湖畔交流QQ群：947594294
+  ##### 直接和我们取得联系：cuihupan@163.com
