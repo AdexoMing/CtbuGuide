@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Star Rating</title>
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript">
+ 
+    var lastStarNum =0;
+     
+    function mOut(obj){
+        obj.innerHTML="★★★★★☆☆☆☆☆".slice(5-lastStarNum,10-lastStarNum);
+    }
+ 
+    function mOver(){
+        var obj = document.getElementById("starRate");
+        var offsetTopVal  = obj.offsetTop;
+        var pos=getPos(event);
+        //star width is 13.2px,first star is offset 8px from left, near half of star, the star will just become black.
+        //6 is adjust parameter
+        var i = Math.floor((pos.x + 6)/13.2);<br>　　　　　　　　　 //star height is 21px
+        if(i <= 5 & i > 0&& pos.y < offsetTopVal + 21 && pos.y > offsetTopVal){
+            obj.innerHTML="★★★★★☆☆☆☆☆".slice(5-i,10-i);
+            //console.log("MousePage(x,y)=("+pos.x+" ,"+pos.y+") starNumber="+Math.floor((pos.x+6)/13.2));<br>
+            $(obj).click(function(){
+            lastStarNum = i;
+        })
+        }      
+    }
+ 
+    $('*').mousemove(function(){
+        mOver();
+    });
+     
+     function getPos(ev)
+        {
+            var scrollTop=document.documentElement.scrollTop||document.body.scrollTop;
+            var scrollLeft=document.documentElement.scrollLeft||document.body.scrollLeft; 
+            return {x: ev.clientX+scrollLeft, y: ev.clientY+scrollTop};    
+       }
+    </script>
+</head>
+<body>
+<div>Star Rating:</div>
+<div id="starRate" onmouseover="mOver()"  onmouseout="mOut(this)" style="width:66px;height:21px">☆☆☆☆☆</div>
+ 
+</body>
+</html>
